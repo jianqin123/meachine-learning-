@@ -1,1 +1,2 @@
-# meachine-learning-
+# meachine learning
+implementation of some  meachine learning algorithm 
